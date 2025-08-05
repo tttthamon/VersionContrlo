@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+<template><h1>Thai Language Page</h1></template>
+=======
 <template>
   <q-page class="flex flex-center">
     <img
@@ -11,3 +14,4 @@
 <script setup>
 //
 </script>
+>>>>>>> origin/master
