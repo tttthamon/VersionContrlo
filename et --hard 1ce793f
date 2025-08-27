@@ -1,0 +1,37 @@
+[33mc4128fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m1ce793f[m HEAD@{1}: reset: moving to HEAD~1
+[33m690ec05[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: commit (merge): Merge branch 'master' of https://github.com/tttthamon/VersionContrlo
+[33m1ce793f[m HEAD@{3}: commit: thamon
+[33mc4128fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{4}: reset: moving to c4128fac5bc7ebca47f1fcef7ebf78dc0ada88bf
+[33mc633084[m[33m ([m[1;31morigin/thai-lang[m[33m, [m[1;32mthai-lang[m[33m)[m HEAD@{5}: reset: moving to HEAD
+[33mc633084[m[33m ([m[1;31morigin/thai-lang[m[33m, [m[1;32mthai-lang[m[33m)[m HEAD@{6}: reset: moving to HEAD
+[33mc633084[m[33m ([m[1;31morigin/thai-lang[m[33m, [m[1;32mthai-lang[m[33m)[m HEAD@{7}: merge thai-lang: Fast-forward
+[33m93139c5[m HEAD@{8}: checkout: moving from thai-lang to master
+[33mc633084[m[33m ([m[1;31morigin/thai-lang[m[33m, [m[1;32mthai-lang[m[33m)[m HEAD@{9}: commit: แก้ไขไฟล์ index.html เพิ่มข้อมูลภาษาไทย
+[33m6303561[m HEAD@{10}: commit: edit2
+[33m96945e9[m HEAD@{11}: commit: edittt
+[33m93139c5[m HEAD@{12}: checkout: moving from master to thai-lang
+[33m93139c5[m HEAD@{13}: checkout: moving from thai-lang to master
+[33m93139c5[m HEAD@{14}: pull origin master: Fast-forward
+[33m0cd8bd3[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{15}: checkout: moving from master to thai-lang
+[33m93139c5[m HEAD@{16}: checkout: moving from master to master
+[33m93139c5[m HEAD@{17}: checkout: moving from thai-lang to master
+[33m0cd8bd3[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{18}: checkout: moving from master to thai-lang
+[33m93139c5[m HEAD@{19}: checkout: moving from master to master
+[33m93139c5[m HEAD@{20}: checkout: moving from thai-lang to master
+[33m0cd8bd3[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{21}: checkout: moving from master to thai-lang
+[33m93139c5[m HEAD@{22}: checkout: moving from master to master
+[33m93139c5[m HEAD@{23}: pull origin master: Fast-forward
+[33m1503bdc[m HEAD@{24}: checkout: moving from thai-lang to master
+[33m0cd8bd3[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{25}: checkout: moving from main to thai-lang
+[33m0cd8bd3[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{26}: commit (merge): Resolve merge conflict in IndexPage.vue
+[33m1503bdc[m HEAD@{27}: checkout: moving from master to main
+[33m1503bdc[m HEAD@{28}: checkout: moving from main to master
+[33m1503bdc[m HEAD@{29}: merge thai-lang: Fast-forward
+[33m890ff10[m HEAD@{30}: checkout: moving from thai-lang to main
+[33m1503bdc[m HEAD@{31}: commit: Add Thai language IndexPage.vue
+[33m890ff10[m HEAD@{32}: checkout: moving from main to thai-lang
+[33m890ff10[m HEAD@{33}: checkout: moving from thai-lang to main
+[33m890ff10[m HEAD@{34}: checkout: moving from main to thai-lang
+[33m890ff10[m HEAD@{35}: Branch: renamed refs/heads/master to refs/heads/main
+[33m890ff10[m HEAD@{37}: commit (initial): Initial commit
